@@ -1,7 +1,9 @@
 sbts
 ====
 
-sbts is a command that runs sbt.ScriptMain.
+By the sbts, Run scala scripts with dependencies easily!
+
+The sbts is a command that runs sbt.ScriptMain.
 
 Install
 ----
