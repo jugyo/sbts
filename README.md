@@ -10,7 +10,7 @@ You can install the sbts by the [conscript](https://github.com/n8han/conscript) 
 
     cs jugyo/sbts
 
-The sbts command will be installed under ~/bin.
+The command will be installed to ~/bin/sbts.
 
 Usage
 ----
